@@ -1,0 +1,6 @@
+# lista negra
+# ignora arquivos especificos
+teste.txt
+
+# ignora de forma generalizada
+*.js
